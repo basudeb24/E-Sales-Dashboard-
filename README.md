@@ -30,3 +30,6 @@ procedure:-
 2) Best Sales in a month - December(4613K)
 3) Top Product By Sales Count - Iphone (6.8K)
 
+   ![image](https://github.com/basudeb24/E-Sales-Dashboard-/assets/43643452/1de82a64-0ec7-461a-a023-b456668e9b9a)
+
+
